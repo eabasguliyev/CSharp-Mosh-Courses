@@ -1,0 +1,7 @@
+C:\Users\elgun\source\repos\InterfacesAndTestability\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.exe.config
+C:\Users\elgun\source\repos\InterfacesAndTestability\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.exe
+C:\Users\elgun\source\repos\InterfacesAndTestability\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.pdb
+C:\Users\elgun\source\repos\InterfacesAndTestability\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.csprojAssemblyReference.cache
+C:\Users\elgun\source\repos\InterfacesAndTestability\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.csproj.CoreCompileInputs.cache
+C:\Users\elgun\source\repos\InterfacesAndTestability\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.exe
+C:\Users\elgun\source\repos\InterfacesAndTestability\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.pdb
