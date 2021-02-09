@@ -1,0 +1,7 @@
+C:\Users\elgun\source\repos\InterfacesAndPolymorphism\InterfacesAndPolymorphism\bin\Debug\InterfacesAndPolymorphism.exe.config
+C:\Users\elgun\source\repos\InterfacesAndPolymorphism\InterfacesAndPolymorphism\bin\Debug\InterfacesAndPolymorphism.exe
+C:\Users\elgun\source\repos\InterfacesAndPolymorphism\InterfacesAndPolymorphism\bin\Debug\InterfacesAndPolymorphism.pdb
+C:\Users\elgun\source\repos\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.csprojAssemblyReference.cache
+C:\Users\elgun\source\repos\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\elgun\source\repos\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.exe
+C:\Users\elgun\source\repos\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.pdb
